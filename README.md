@@ -28,10 +28,12 @@ Create a Python module that demonstrates skills in fetching data from the web, p
 - `python -m pip install -r requirements.txt`
 
 ## Install all Required Packages
-   py -m pip install requests
-   py-m pip freeze > requirements.txt
-  
-
+   
+Here's the revised text:
+```
+python -m pip install requests
+python -m pip freeze > requirements.txt
+```
 ## Git add and commit
 
 - git add .
