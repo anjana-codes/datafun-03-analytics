@@ -3,18 +3,18 @@
 ## Objectives
 
 Create a Python module that demonstrates skills in fetching data from the web, processing it using Python collections, and writing the processed data to different file formats.
-creating project and cloning to machine
 
 ## Create Github Repository
-GitHub Repository: datafun-03-analytics
-Documentation: README.md
-Script: anjana_analytics.py
+
+-GitHub Repository: datafun-03-analytics
+-Documentation: README.md
+-Script: anjana_analytics.py
 
 
 ## Clone to Vs Code
 
-open Vs Code terminal(PoweShell)
-git clone site_URL
+-open Vs Code terminal(PoweShell)
+-git clone site_URL
 
 ## Adding files
  -add a .py file to work in 
@@ -36,11 +36,10 @@ git add .
 git commit -m "add .gitignore, cmds to readme"
 git push origin main
 
-
 ## Source
 This project was built to the following specification: 
 https://github.com/denisecase/datafun-03-spec
 
 
 
-datafun-03-spec
+
