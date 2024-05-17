@@ -6,20 +6,20 @@ Create a Python module that demonstrates skills in fetching data from the web, p
 
 ## Create Github Repository
 
--GitHub Repository: datafun-03-analytics
--Documentation: README.md
--Script: anjana_analytics.py
-
+- GitHub Repository: datafun-03-analytics
+- Documentation: README.md
+- Script: anjana_analytics.py
 
 ## Clone to Vs Code
 
 "Open VS Code terminal (PowerShell) and run the command 'git clone site_URL'."
 
 
-## Adding files- Add a .py file to work in.
-- Add requirements.txt to hold the required project modules.
-- Add .venv to act as the virtual environment.
-- Add a .gitignore file to hold the .venv file so that the virtual environment is not included in the rest of the Python environment.
+## Adding files
+- Add a .py file to work in.
+- Add a requirements.txt file to hold the required project modules.
+- Create a .venv to act as the virtual environment.
+- Include a .gitignore file to exclude the .venv file from the rest of the Python environment.
   
 ## Create Project Virtual Environment
 
@@ -28,9 +28,11 @@ Create a Python module that demonstrates skills in fetching data from the web, p
 - `python -m pip install -r requirements.txt`
 
 ## Git add and commit
--git add .
--git commit -m "add .gitignore, cmds to readme"
--git push origin main
+
+- git add .
+- git commit -m "Add .gitignore, commands to readme"
+- git push origin main
+
 
 ## Source
 This project was built to the following specification: 
