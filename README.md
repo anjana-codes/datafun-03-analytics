@@ -13,15 +13,14 @@ Create a Python module that demonstrates skills in fetching data from the web, p
 
 ## Clone to Vs Code
 
--open Vs Code terminal(PoweShell)
--git clone site_URL
+"Open VS Code terminal (PowerShell) and run the command 'git clone site_URL'."
 
-## Adding files
- -add a .py file to work in 
- -add requirements.txt to hold the required project modules
- -add .vinv to act as the virtual environment
- -add a .gitignore to hold the .venv file so that the virtual environment is not passed to the rest of the python environment
 
+## Adding files- Add a .py file to work in.
+- Add requirements.txt to hold the required project modules.
+- Add .venv to act as the virtual environment.
+- Add a .gitignore file to hold the .venv file so that the virtual environment is not included in the rest of the Python environment.
+  
 ## Create Project Virtual Environment
 py -m venv .venv
 .venv\Scripts\Activate
