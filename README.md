@@ -23,17 +23,14 @@ Create a Python module that demonstrates skills in fetching data from the web, p
   
 ## Create Project Virtual Environment
 
-py -m venv .venv
-.venv\Scripts\Activate
-py -m pip install -r requirements.txt
-
-
+- `python -m venv .venv`
+- `.venv\Scripts\activate`
+- `python -m pip install -r requirements.txt`
 
 ## Git add and commit
-
-git add .
-git commit -m "add .gitignore, cmds to readme"
-git push origin main
+-git add .
+-git commit -m "add .gitignore, cmds to readme"
+-git push origin main
 
 ## Source
 This project was built to the following specification: 
