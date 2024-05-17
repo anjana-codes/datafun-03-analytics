@@ -22,11 +22,11 @@ Create a Python module that demonstrates skills in fetching data from the web, p
 - Add a .gitignore file to hold the .venv file so that the virtual environment is not included in the rest of the Python environment.
   
 ## Create Project Virtual Environment
+
 py -m venv .venv
 .venv\Scripts\Activate
 py -m pip install -r requirements.txt
-Install all required packages into local project virtual environment
-This installs the single required package that was held in the requirements.txt file - requests
+
 
 
 ## Git add and commit
