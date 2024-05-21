@@ -24,9 +24,9 @@ Create a Python module that demonstrates skills in fetching data from the web, p
   
 ## Create Project Virtual Environment
 ```
-- `python -m venv .venv`
-- `source .venv/bin/activate`
-- `python -m pip install -r requirements.txt`
+- python -m venv .venv
+- source .\.venv\Scripts\activate
+- python -m pip install -r requirements.txt
 ```
 
 ## Install all Required Packages
